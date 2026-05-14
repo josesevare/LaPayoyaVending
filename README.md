@@ -1,4 +1,4 @@
-# 🧀 La Payoya Vending: Software de Gestión Láctea
+# 🧀 La Payoya Vending
 
 [![Java Version](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Environment](https://img.shields.io/badge/Environment-GitHub_Codespaces-blue.svg)](https://github.com/features/codespaces)
